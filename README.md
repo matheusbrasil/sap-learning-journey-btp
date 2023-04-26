@@ -2,12 +2,12 @@
 Study Material Compilation for SAP Business Technology Platform Development with CAP and Node.js
 
 ## Content
-- [Summary](https://github.dev/matheusbrasil/sap-learning-journey-btp/#Summary)
-- [Learning Paths](https://github.dev/matheusbrasil/sap-learning-journey-btp/#Learning-Paths)
-- [openSAP Courses](https://github.dev/matheusbrasil/sap-learning-journey-btp/#openSAP-Courses)
-- [SAP Developers YouTube Playlists](https://github.dev/matheusbrasil/sap-learning-journey-btp/#SAP-Developers-YouTube-Playlists)
-- [SAP Developer Center Tutorials](https://github.dev/matheusbrasil/sap-learning-journey-btp/#SAP-Developer-Center-Tutorials)
-- [References](https://github.dev/matheusbrasil/sap-learning-journey-btp/#References)
+- [Summary](https://github.com/matheusbrasil/sap-learning-journey-btp/#Summary)
+- [Learning Paths](https://github.com/matheusbrasil/sap-learning-journey-btp/#Learning-Paths)
+- [openSAP Courses](https://github.com/matheusbrasil/sap-learning-journey-btp/#openSAP-Courses)
+- [SAP Developers YouTube Playlists](https://github.com/matheusbrasil/sap-learning-journey-btp/#SAP-Developers-YouTube-Playlists)
+- [SAP Developer Center Tutorials](https://github.com/matheusbrasil/sap-learning-journey-btp/#SAP-Developer-Center-Tutorials)
+- [References](https://github.com/matheusbrasil/sap-learning-journey-btp/#References)
 ## Summary
 This is a compilation of study materials aimed at developers who want to learn about developing applications for the SAP Business Technology Platform using CAPM and Node.js. The purpose of this compilation is to provide a resource for recommending study materials to developers who are interested in SAP Business Technology Platform development.
 
